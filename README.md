@@ -14,12 +14,13 @@ Data scientist and software developer. Have experience in machine learning, data
 
 ### Technical Skills
 -------
-Programming Languages: Python, C++, SQL, MATLAB, C, Assembly, Verilog, Labview
-Database/Server: MySQL, PostgreSQL
-Libraries: Tensorflow, OpenCV, Scikit-learn, NumPY, Matplotlib, OpenMP...
-Operating System: Windows, Linux
-Other Software/Tools: Git, RapidMiner, JupyterLab, Celonis, JupyterLab
-
+<p>
+<br>Programming Languages: Python, C++, SQL, MATLAB, C, Assembly, Verilog, Labview
+<br>Database/Server: MySQL, PostgreSQL
+<br>Libraries: Tensorflow, OpenCV, Scikit-learn, NumPY, Matplotlib, OpenMP...
+<br>Operating System: Windows, Linux
+<br>Other Software/Tools: Git, RapidMiner, JupyterLab, Celonis, JupyterLab
+</p>
 ### Languages
 -------
 Turkish (Native), English (C1) (TOEFL;106/120), German (A2)
