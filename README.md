@@ -21,6 +21,7 @@ Data scientist and software developer. Have experience in machine learning, data
 <br> Operating System: Windows, Linux<br />   
 <br> Other Software/Tools: Git, RapidMiner, JupyterLab, Celonis, JupyterLab<br />   
 </p>
+
 ### Languages
 -------
 Turkish (Native), English (C1) (TOEFL;106/120), German (A2)
