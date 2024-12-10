@@ -1,14 +1,5 @@
 # Berk Alperen Bener
 
-Master’s student in Computer Engineering at RWTH Aachen University with hands-on experience in embedded
-systems, hardware design, and C/C++/Python development. Demonstrated ability to apply data-driven
-techniques to real-world projects, solving complex engineering problems.
-
-https://www.linkedin.com/in/berk-alperen-bener-62689b247/
-  
-</a>
-
-
 ## SUMMARY
 ------------
 Master’s student in Computer Engineering at RWTH Aachen University with hands-on experience in embedded
