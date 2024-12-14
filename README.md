@@ -10,11 +10,12 @@ techniques to real-world projects, solving complex engineering problems.
 ### Technical Skills
 -------
 <p>
-<br> Programming Languages: C++, C, Verilog, Python, ARM Assembly, MATLAB, SQL<br />   
+<br> Programming Languages: C++, C, Python, Verilog, SystemC, ARM Assembly, MATLAB, SQL<br />   
 <br> Database/Server: MySQL<br />   
+<br> Operating System: Linux, Zephyr OS<br />   
+<br> Other Software/Tools: gem5, git, CMake, JupyterLab<br />  
 <br> Libraries: Tensorflow, OpenCV, Scikit-learn, NumPY, Matplotlib, OpenMP...<br />   
-<br> Operating System: Windows, Linux<br />   
-<br> Other Software/Tools: Git, Jira, CMake, JupyterLa<br />   
+
   
 </p>
 
