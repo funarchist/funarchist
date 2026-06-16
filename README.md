@@ -21,5 +21,5 @@ techniques to real-world projects, solving complex engineering problems.
 
 ### Languages
 -------
-<br> Languages:English (C1)(TOEFL:106/120), German (B1)<br />   
+<br> Languages:English (C1)(TOEFL:106/120), German (B2)<br />   
 
